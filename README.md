@@ -7,3 +7,5 @@ Example usage:
 ```
 docker run -it --rm -v $PWD/<private_key_file>:/key justinclayton/jwt-encoder <username> /key
 ```
+
+Share and enjoy!
